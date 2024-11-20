@@ -43,7 +43,9 @@ First, clone this repository to your local machine using git. Open a terminal an
 
 
 # Output <a name = Output></a>
-1. After the script excution completed, output will genarate in the path ./Output/<exchangename>/stockname_output.csv
+As per requirment: 
+1. 1st function will print the 0 consecutive data points starting from a random timestamp within the file on the commandline
+2. 2nd function output will genarate in the path ./Output/<exchangename>/stockname_output.csv 
 > example: ./Output/LSE/FLTRLSE_output.csv
 
 
